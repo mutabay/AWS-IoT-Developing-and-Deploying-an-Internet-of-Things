@@ -1,0 +1,1 @@
+arn:aws:iot:us-west-2:054030818705:policy/labIoTGGGroup_Core-policy
