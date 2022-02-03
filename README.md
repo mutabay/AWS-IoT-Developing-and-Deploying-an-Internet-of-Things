@@ -1,5 +1,5 @@
 # AWS-IoT-Developing-and-Deploying-an-Internet-of-Things
-AWS IoT: Developing and Deploying an Internet of Things Course Content and Source Codes
+AWS IoT: Developing and Deploying an Internet of Things Course Content and Source Codes        
 
 Week 1: Connect 2 Car Things to IoT Core from Cloud9  
 Week 2.1: AWS IoT Rules  
